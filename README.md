@@ -1,4 +1,4 @@
-# 🚀 Indian Market Bot Deploy Guide
+# 🚀 BITCOIN USDT Market Bot Deploy Guide
 
 Step-by-step guide to deploy your Telegram bot on Railway using GitHub.
 
